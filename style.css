@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1.Titulo {
+    font-size: 75px;
+    padding-top: 3cm;
+    padding-bottom: 3cm;
+    color: #f5c72f;
+}
+
+h2.Titulo {
+    font-size: 75px;
+    padding-top: 3cm;
+    padding-bottom: 3cm;
+    color: #fc0b0b;
+}
+
+h2.Titulo2 {
+    font-size: 75px;
+    padding-top: 3cm;
+    padding-bottom: 3cm;
+    color: #00ff22;
+}
+
+h3.Titulo {
+    font-size: 65px;
+    padding-top: 3cm;
+    padding-bottom: 3cm;
+    color: #f5c72f;
+}
+
+img.nombre {
+    border-style: solid;
+    border-color: #f5c72f;
+    text-align: center;
+    width: 30%;
+    height: 30%;
+}
+
+img.darth {
+    width: 300px;
+    height: 500px;
+    padding-bottom: 3cm;
+}
+
+img.stoorm {
+    width: 375px;
+    height: 550px;
+    padding-bottom: 3cm;
+}
+
+img.caminante {
+    width: 500px;
+    height: 500px;  
+    padding-top: 1cm;
+    padding-bottom: 3cm;
+}
+
+img.tie {
+    width: 500px;
+    height: 500px; 
+    padding-top: 1cm;
+    padding-bottom: 3cm;
+}
+
+img.luke {
+    width: 500px;
+    height: 700px;
+    padding-bottom: 3cm;
+}
+
+img.androides {
+    width: 300px;
+    height: 500px;
+}
+
+img.halcon {
+    width: 700px;
+    height: 450px;
+    padding-bottom: 3cm;
+}
+
+img.alasx {
+    width: 700px;
+    height: 500px;
+    padding-bottom: 3cm;
+}
+
+.nombres {
+    font-size: 50px;
+    padding-top: 3cm;
+    color: #ffffff;
+}
+
+.caracteristicas {
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    background-size: cover;
+}
+
+.Fondo {
+    background-image: url("https://earth.stanford.edu/sites/default/files/styles/responsive_large/public/media/image/2019-12/starwars_gettyimages-510216640.jpg?itok=m0xuuHNc");
+}
+.Fondo1 {
+    background-image: url("https://fondosmil.com/fondo/14426.jpg");
+}
+.Fondo2 {
+    background-image: url("https://lumiere-a.akamaihd.net/v1/images/Death-Star-I-copy_36ad2500.jpeg?region=0%2C31%2C1600%2C800");
+}
+.Fondo3 {
+    background-image: url("https://farm1.staticflickr.com/583/22181069634_b982365586_b.jpg");
+}
+.Fondo4 {
+    background-image: url("https://cdn.wallpapersafari.com/5/0/FCsnK3.jpg");
+}
+.Fondo5 {
+    background-image: url("https://w0.peakpx.com/wallpaper/452/784/HD-wallpaper-black-and-green-cool-black-and-green.jpg");
+}
+.Fondo6 {
+    background-image: url("https://www.elplural.com/uploads/s1/27/13/64/jabbaspalace2.jpeg");
+}
+.Fondo7 {
+    background-image: url("https://static.wikia.nocookie.net/starwars/images/2/2c/Starfield.jpg/revision/latest/scale-to-width-down/1200?cb=20210820011702");
+}
